@@ -1,39 +1,42 @@
-"""Solutions for printing ranges while skipping specific multiples."""
+"""Examples of using break in Python loops."""
 
 
 def easy() -> None:
-    """Print numbers 1..15 excluding multiples of 2."""
-    print("Easy (1..15, skip multiples of 2):")
-    for number in range(1, 16):
-        if number % 2 == 0:
-            continue
+    """Print numbers from 1 onward and stop at 8."""
+    print("Easy (start at 1, stop at 8):")
+    number = 1
+    while True:
         print(number, end=" ")
+        if number == 8:
+            break
+        number += 1
     print("\n")
 
 
 def moderate() -> None:
-    """Print numbers 1..25 excluding multiples of 4."""
-    print("Moderate (1..25, skip multiples of 4):")
-    for number in range(1, 26):
-        if number % 4 == 0:
-            continue
+    """Print 1..20 and stop when a multiple of 6 is found."""
+    print("Moderate (1..20, stop at first multiple of 6):")
+    for number in range(1, 21):
         print(number, end=" ")
+        if number % 6 == 0:
+            break
     print("\n")
 
 
-def hard(n: int) -> None:
-    """Print numbers 1..n excluding values divisible by 3 or 5."""
-    print(f"Hard (1..{n}, skip numbers divisible by 3 or 5):")
-    for number in range(1, n + 1):
-        if number % 3 == 0 or number % 5 == 0:
-            continue
-        print(number, end=" ")
-    print()
+def hard(target: int) -> None:
+    """Search for target in 1..100 and stop when it is found."""
+    print(f"Hard (search for {target} in range 1..100):")
+    for number in range(1, 101):
+        if number == target:
+            print(f"Found {target} at {number}.")
+            break
+    else:
+        print(f"{target} is not in the range 1..100.")
 
 
 if __name__ == "__main__":
     easy()
     moderate()
 
-    limit = int(input("Enter n for hard level: "))
-    hard(limit)
+    target_number = int(input("Enter a number to search (1..100): "))
+    hard(target_number)
