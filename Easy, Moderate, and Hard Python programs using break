@@ -1,0 +1,30 @@
+# 🔹 EASY: Print numbers from 1 onwards and stop at 8
+print("Easy Level Output:")
+for i in range(1, 100):
+    if i == 8:
+        break
+    print(i, end=" ")
+
+print("\n")  # line break
+
+
+# 🔹 MODERATE: Print numbers from 1 to 20 and stop at multiple of 6
+print("Moderate Level Output:")
+for i in range(1, 21):
+    if i % 6 == 0:
+        break
+    print(i, end=" ")
+
+print("\n")  # line break
+
+
+# 🔹 HARD: Search for a number in range 1 to 100
+print("Hard Level Output:")
+num = int(input("Enter number to search (1–100): "))
+
+for i in range(1, 101):
+    if i == num:
+        print("Number found:", i)
+        break
+else:
+    print("Number not found")
