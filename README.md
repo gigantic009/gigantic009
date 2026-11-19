@@ -15,15 +15,16 @@
 
 ## 👨‍💻 About me
 
-I'm an Information Technology undergraduate who enjoys learning how software works—from problem-solving fundamentals and algorithms to APIs, databases and practical applications.
+I'm an Information Technology undergraduate actively building my software development skills through hands-on projects, Java problem solving, and improving the quality of the code I write.
 
 - 🎓 **B.Tech in Information Technology** — Haldia Institute of Technology
-- ☕ Practising **Java, Data Structures & Algorithms**, and interview-style problem solving
-- 🌐 Building backend and full-stack applications with **Node.js, Express and SQLite**
-- 🧾 Exploring **OCR, document processing and data-validation workflows**
-- ☁️ Learning through cloud, AI and automation projects
+- ☕ Working on **Data Structures & Algorithms in Java**, with a focus on understanding patterns and solving problems independently
+- 📚 Developing and maintaining **DSA in Java**, a structured, beginner-friendly learning repository with explanations, examples, practice and checkpoints
+- 🔍 Reviewing code quality, readability, documentation, test cases and GitHub Actions workflows
+- 🌐 Building practical applications while learning backend development, APIs and databases
+- 🤖 Exploring AI-assisted workflows, OCR and cloud technologies through projects
 
-I learn by building, testing, debugging, and documenting—not just by collecting technologies. I'm focused on strengthening my computer science fundamentals and developing software that is understandable, useful, and reliable.
+I learn by writing code, debugging it, testing it, explaining how it works and improving it over time. My current focus is strengthening fundamentals and making the projects I build genuinely useful to other learners and developers.
 
 ## 🚀 Featured projects
 
@@ -86,13 +87,14 @@ A learning repository for practising Data Structures and Algorithms in Java, bui
 
 </div>
 
-## 📚 Current learning
+## 📚 Currently working on
 
-- Data Structures & Algorithms in Java
-- Backend engineering, REST APIs and database design
-- Computer science fundamentals: DBMS, Operating Systems and Computer Networks
-- OCR pipelines, AI-assisted workflows and cloud technologies
-- Testing, application security and maintainable project architecture
+- **Java & DSA:** Recursion, problem-solving patterns, implementation practice and interview preparation
+- **Open learning project:** Improving the structure, explanations, code consistency and reliability of my DSA in Java repository
+- **Software quality:** Code reviews, readable formatting, edge-case testing, compilation checks and GitHub Actions
+- **Backend development:** APIs, server-side logic and database fundamentals through practical projects
+- **Computer science fundamentals:** Data structures, algorithms, DBMS, Operating Systems and Computer Networks
+- **Exploration:** AI workflows, cloud technologies and practical automation
 
 ## 🌱 What matters to me
 
