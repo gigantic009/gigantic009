@@ -15,14 +15,15 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Pursuing **B.Tech in Information Technology** at **Haldia Institute of Technology**
-- ☕ Practising **Java and Data Structures & Algorithms**
-- 🌐 Building backend and full-stack applications with **Node.js, Express and SQLite**
-- 🧾 Exploring **OCR, receipt understanding and financial-data validation**
-- ☁️ Learning through cloud, AI and automation projects
-- 🎯 Interested in writing clean, reliable software and understanding the engineering behind it
+I'm an Information Technology undergraduate who enjoys learning how software works—from problem-solving fundamentals and algorithms to APIs, databases and practical applications.
 
-I believe the best way to learn software development is to build, test, improve, and document real projects.
+- 🎓 **B.Tech in Information Technology** — Haldia Institute of Technology
+- ☕ Practising **Java, Data Structures & Algorithms**, and interview-style problem solving
+- 🌐 Building backend and full-stack applications with **Node.js, Express and SQLite**
+- 🧾 Exploring **OCR, document processing and data-validation workflows**
+- ☁️ Learning through cloud, AI and automation projects
+
+I learn by building, testing, debugging, and documenting—not just by collecting technologies. I'm focused on strengthening my computer science fundamentals and developing software that is understandable, useful, and reliable.
 
 ## 🚀 Featured projects
 
