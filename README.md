@@ -4,6 +4,10 @@
 
 ### IT Undergraduate · Developer · Problem Solver · Poetry Enthusiast
 
+📍 India · 🎂 6 August 2003
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antarip-acharya-a052a23b4/)
+
 *I like building things, understanding how they work, learning from mistakes, and finding words for the things that code can't express.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-gigantic009-181717?style=for-the-badge&logo=github)](https://github.com/gigantic009)
@@ -15,7 +19,9 @@
 
 ## 👨‍💻 A little about me
 
-I'm a B.Tech Information Technology student at **Haldia Institute of Technology** who enjoys learning, creating, experimenting and figuring things out independently.
+I'm a B.Tech Information Technology student at **Haldia Institute of Technology, India**, who enjoys learning, creating, experimenting and figuring things out independently. Born on **6 August 2003**.
+
+I spend a lot of time around code, but I promise I have interests that don't require a compiler. (Poetry is one of them. Debugging my own thoughts is arguably the harder one.)
 
 Technology is a big part of what I do, but it isn't the only thing that interests me. I enjoy problem-solving, exploring ideas, writing poetry, putting feelings into words, and reflecting on people, experiences and the little things that make life interesting.
 
@@ -143,6 +149,7 @@ I also enjoy learning new things simply because I want to understand them, wheth
 ## 🤝 Connect & explore
 
 - **GitHub:** [@gigantic009](https://github.com/gigantic009)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/antarip-acharya-a052a23b4/)
 - **Repositories:** [Explore my projects](https://github.com/gigantic009?tab=repositories)
 
 <div align="center">
