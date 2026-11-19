@@ -2,9 +2,9 @@
 
 # Hey, I'm Antarip Acharya 👋
 
-### IT Undergraduate · Software Developer in Progress · Builder
+### IT Undergraduate · Developer · Problem Solver · Poetry Enthusiast
 
-*Learning by building, debugging, testing, documenting and improving real projects.*
+*I like building things, understanding how they work, learning from mistakes, and finding words for the things that code can't express.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-gigantic009-181717?style=for-the-badge&logo=github)](https://github.com/gigantic009)
 [![Profile views](https://komarev.com/ghpvc/?username=gigantic009&style=for-the-badge&color=16865b)](https://github.com/gigantic009)
@@ -13,18 +13,21 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 A little about me
 
-I'm a B.Tech Information Technology student at **Haldia Institute of Technology** interested in software development, problem solving, backend systems and building useful tools.
+I'm a B.Tech Information Technology student at **Haldia Institute of Technology** who enjoys learning, creating, experimenting and figuring things out independently.
 
-I learn through hands-on development: writing code, investigating bugs, testing edge cases, reviewing implementation choices and improving documentation. I'm also building a structured Java DSA resource to make the learning process less confusing for fellow students.
+Technology is a big part of what I do, but it isn't the only thing that interests me. I enjoy problem-solving, exploring ideas, writing poetry, putting feelings into words, and reflecting on people, experiences and the little things that make life interesting.
 
-- ☕ Practising **Java, Data Structures & Algorithms** and problem-solving patterns
-- 🧩 Building and maintaining a structured **DSA in Java** learning repository
-- 🌐 Developing applications involving **APIs, backend logic, authentication and databases**
-- 🧪 Paying attention to **testing, code quality, documentation and CI workflows**
-- 🤖 Exploring **AI integrations, OCR, automation and tool-based assistants**
-- 📖 Strengthening computer science fundamentals while building projects
+- 🎓 Pursuing **B.Tech in Information Technology**
+- ☕ Learning **Java, Data Structures & Algorithms** and the art of solving problems independently
+- 🛠️ Building applications, experimenting with ideas and learning through implementation
+- 📚 Creating and improving a structured **DSA in Java** learning resource
+- 🤖 Exploring **AI, automation, OCR, cloud technologies and tool-based systems**
+- ✍️ Interested in **poetry, creative writing and thoughtful expression**
+- 🔍 Curious about how things work—from software and computer systems to ideas beyond technology
+
+I don't expect to know everything. I enjoy the process of figuring things out: making mistakes, debugging, asking questions, trying again and gradually getting better.
 
 ## 🚀 Projects
 
@@ -95,7 +98,7 @@ A structured, beginner-friendly learning repository for studying DSA in Java, fr
 </tr>
 </table>
 
-## 🧰 Technologies
+## 🧰 Technologies I'm exploring and using
 
 <div align="center">
 
@@ -113,22 +116,29 @@ A structured, beginner-friendly learning repository for studying DSA in Java, fr
 
 </div>
 
-## 🔭 Current focus
+## 🔭 What I'm focused on right now
 
 - **Java & DSA:** Recursion, algorithms, patterns and independent problem-solving practice
 - **Repository engineering:** Improving the organization, explanations, formatting, tests and reliability of my Java learning project
 - **Application development:** Building and refining backend functionality, APIs and database-backed applications
 - **Software quality:** Compilation, edge-case testing, code review and CI troubleshooting
 - **AI & automation:** Exploring practical integrations and constrained, tool-based workflows
-- **CS fundamentals:** Algorithms, DBMS, Operating Systems, Computer Networks and AI
+- **Computer science:** Algorithms, DBMS, Operating Systems, Computer Networks and AI
 
-## 🌱 How I approach learning and development
+## ✍️ Beyond code
 
-- Understand the problem before jumping to code.
-- Prefer readable and maintainable implementations.
-- Test assumptions and investigate failures.
-- Document limitations rather than overstate capabilities.
-- Turn what I learn into projects and resources others can explore.
+I enjoy poetry and creative writing—especially writing that captures emotions, everyday moments, imperfect people, questions, thoughts and experiences. I think creativity and technical curiosity complement each other: one helps me build and reason, while the other helps me observe and express.
+
+I also enjoy learning new things simply because I want to understand them, whether they're technical, practical or something entirely different.
+
+## 🌱 Things I believe in
+
+- Stay curious; never stop asking questions.
+- Understand before memorizing.
+- Build things, make mistakes and learn from them.
+- Write code that other people can understand.
+- Be honest about what works and what still needs work.
+- Keep growing, technically and personally.
 
 ## 🤝 Connect & explore
 
@@ -137,6 +147,6 @@ A structured, beginner-friendly learning repository for studying DSA in Java, fr
 
 <div align="center">
 
-*Still learning. Still building. Still improving.*
+*Still learning. Still building. Still writing. Still improving.*
 
 </div>
