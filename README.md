@@ -43,6 +43,8 @@ I don't expect to know everything. I enjoy the process of figuring things out: m
 
 ### 🧾 [SmartReceipt AI](https://github.com/gigantic009/SmartReceipt-AI)
 
+<sub>🚀 [Live API on Railway](https://smartreceipt-ai-production.up.railway.app) · [Health check](https://smartreceipt-ai-production.up.railway.app/health)</sub>
+
 An OCR-based receipt processing API that extracts, normalizes and validates receipt data.
 
 - Image validation and preprocessing with OpenCV
@@ -57,6 +59,8 @@ An OCR-based receipt processing API that extracts, normalizes and validates rece
 <td width="50%" valign="top">
 
 ### 💸 [PocketTrack](https://github.com/gigantic009/pockettrack-expense-tracker)
+
+<sub>🚀 [Live on Railway](https://pockettrack-production.up.railway.app)</sub>
 
 A multi-user personal finance application for tracking transactions and understanding cash flow.
 
@@ -99,6 +103,30 @@ A structured, beginner-friendly learning repository for studying DSA in Java, fr
 - Ongoing code quality and consistency reviews
 
 **Stack:** Java
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Student Registration & Management System](https://github.com/gigantic009/student-registration-management-system)
+
+<sub>🚀 [Live on Render](https://student-registration-management-system-werr.onrender.com)</sub>
+
+A web-based student registration and record-management application.
+
+- Student registration and directory
+- Search, edit and delete student records
+- Flask application with SQLite database
+
+**Stack:** Python · Flask · SQLite · HTML · CSS
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Portfolio
+
+Explore my [GitHub repositories](https://github.com/gigantic009?tab=repositories) and deployed projects.
 
 </td>
 </tr>
